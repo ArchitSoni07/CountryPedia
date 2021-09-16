@@ -1,0 +1,19 @@
+.body{
+    width: 100%;
+    background-color: rgb(61, 6, 61);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.result{
+        
+}
+
+#result_{
+    padding: 6px;
+    margin: 7px;
+}

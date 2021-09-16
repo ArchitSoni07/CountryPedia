@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    padding: 20px;
+    width: 100%;
+    background-color: rgb(61, 6, 61);
+    color: aquamarine;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Noto Sans', sans-serif;
+    position: sticky;
+}
+
+.header_search{
+    display: flex;
+    margin-right: 35px;
+    align-items: center;
+    justify-content: center;
+}
+
+#search_input{
+    outline: none;
+    border-radius: 20px;
+    height: 30px;
+    text-align: center;
+    padding: 4px;
+}
